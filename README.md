@@ -8,4 +8,7 @@
 针对 UIView,  UILabel,  UITextField,  UIButton,  UIImageView封装
 
 
+![image] (https://github.com/Lv100-ShawnAlex/BasicCtrlTool/blob/master/show.png)
+
+
 
